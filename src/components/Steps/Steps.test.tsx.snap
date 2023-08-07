@@ -1,0 +1,227 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Steps can all balls be active 1`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+@@ -9,11 +9,11 @@
+          class=\\"sc-gueYoa eGxfdf\\"
+        >
+          test
+        </p>
+        <div
+-         class=\\"sc-dmqHEX blAMYx\\"
++         class=\\"sc-dmqHEX eDFYpJ\\"
+        />
+      </div>
+      <div
+        class=\\"sc-jTrPJq jhXSGZ\\"
+      >"
+`;
+
+exports[`Steps can all balls be active 2`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+@@ -9,11 +9,11 @@
+          class=\\"sc-gueYoa eGxfdf\\"
+        >
+          test
+        </p>
+        <div
+-         class=\\"sc-dmqHEX blAMYx\\"
++         class=\\"sc-dmqHEX eDFYpJ\\"
+        />
+      </div>
+      <div
+        class=\\"sc-jTrPJq jhXSGZ\\"
+      >
+@@ -28,11 +28,11 @@
+          class=\\"sc-gueYoa eGxfdf\\"
+        >
+          test
+        </p>
+        <div
+-         class=\\"sc-dmqHEX blAMYx\\"
++         class=\\"sc-dmqHEX eDFYpJ\\"
+        />
+      </div>
+      <div
+        class=\\"sc-jTrPJq jhXSGZ\\"
+      >"
+`;
+
+exports[`Steps can all balls be active 3`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+@@ -9,11 +9,11 @@
+          class=\\"sc-gueYoa eGxfdf\\"
+        >
+          test
+        </p>
+        <div
+-         class=\\"sc-dmqHEX blAMYx\\"
++         class=\\"sc-dmqHEX eDFYpJ\\"
+        />
+      </div>
+      <div
+        class=\\"sc-jTrPJq jhXSGZ\\"
+      >
+@@ -28,11 +28,11 @@
+          class=\\"sc-gueYoa eGxfdf\\"
+        >
+          test
+        </p>
+        <div
+-         class=\\"sc-dmqHEX blAMYx\\"
++         class=\\"sc-dmqHEX eDFYpJ\\"
+        />
+      </div>
+      <div
+        class=\\"sc-jTrPJq jhXSGZ\\"
+      >
+@@ -47,10 +47,10 @@
+          class=\\"sc-gueYoa eGxfdf\\"
+        >
+          test
+        </p>
+        <div
+-         class=\\"sc-dmqHEX blAMYx\\"
++         class=\\"sc-dmqHEX eDFYpJ\\"
+        />
+      </div>
+    </div>
+  </DocumentFragment>"
+`;
+
+exports[`Steps can all balls be active 4`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+@@ -28,11 +28,11 @@
+          class=\\"sc-gueYoa eGxfdf\\"
+        >
+          test
+        </p>
+        <div
+-         class=\\"sc-dmqHEX blAMYx\\"
++         class=\\"sc-dmqHEX eDFYpJ\\"
+        />
+      </div>
+      <div
+        class=\\"sc-jTrPJq jhXSGZ\\"
+      >"
+`;
+
+exports[`Steps can all balls be active 5`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+@@ -28,11 +28,11 @@
+          class=\\"sc-gueYoa eGxfdf\\"
+        >
+          test
+        </p>
+        <div
+-         class=\\"sc-dmqHEX blAMYx\\"
++         class=\\"sc-dmqHEX eDFYpJ\\"
+        />
+      </div>
+      <div
+        class=\\"sc-jTrPJq jhXSGZ\\"
+      >
+@@ -47,10 +47,10 @@
+          class=\\"sc-gueYoa eGxfdf\\"
+        >
+          test
+        </p>
+        <div
+-         class=\\"sc-dmqHEX blAMYx\\"
++         class=\\"sc-dmqHEX eDFYpJ\\"
+        />
+      </div>
+    </div>
+  </DocumentFragment>"
+`;
+
+exports[`Steps can all balls be active 6`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+@@ -47,10 +47,10 @@
+          class=\\"sc-gueYoa eGxfdf\\"
+        >
+          test
+        </p>
+        <div
+-         class=\\"sc-dmqHEX blAMYx\\"
++         class=\\"sc-dmqHEX eDFYpJ\\"
+        />
+      </div>
+    </div>
+  </DocumentFragment>"
+`;
+
+exports[`Steps should render correctly 1`] = `
+<div
+  class="sc-beqWaB eckzXC"
+>
+  <div
+    class="sc-eDDNvR dFFHAH"
+  >
+    <p
+      class="sc-gueYoa eGxfdf"
+    >
+      test
+    </p>
+    <div
+      class="sc-dmqHEX blAMYx"
+    />
+  </div>
+  <div
+    class="sc-jTrPJq jhXSGZ"
+  >
+    <div
+      class="sc-hLseeU jyEoAW"
+    />
+  </div>
+  <div
+    class="sc-eDDNvR dFFHAH"
+  >
+    <p
+      class="sc-gueYoa eGxfdf"
+    >
+      test
+    </p>
+    <div
+      class="sc-dmqHEX blAMYx"
+    />
+  </div>
+  <div
+    class="sc-jTrPJq jhXSGZ"
+  >
+    <div
+      class="sc-hLseeU jyEoAW"
+    />
+  </div>
+  <div
+    class="sc-eDDNvR dFFHAH"
+  >
+    <p
+      class="sc-gueYoa eGxfdf"
+    >
+      test
+    </p>
+    <div
+      class="sc-dmqHEX blAMYx"
+    />
+  </div>
+</div>
+`;

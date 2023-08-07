@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Badge should render a green badge 1`] = `
+<span
+  class="sc-beqWaB haAcKM"
+>
+  Badge
+</span>
+`;
+
+exports[`Badge should render a yellow badge 1`] = `
+<span
+  class="sc-beqWaB DAiEW"
+>
+  Badge
+</span>
+`;
+
+exports[`Badge should render correctly 1`] = `
+<span
+  class="sc-beqWaB hSpapK"
+>
+  Badge
+</span>
+`;

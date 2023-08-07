@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FilePicker should render correctly 1`] = `
+<label
+  class="sc-beqWaB eTnXSi"
+  data-testid="filepicker-container"
+>
+  <input
+    data-testid="filepicker"
+    type="file"
+  />
+  Filepicker
+</label>
+`;

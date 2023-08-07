@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Circle should render an awaiting circle 1`] = `
+<div
+  class="sc-beqWaB kDavFb"
+>
+  <svg
+    class="icon icon-tabler icon-tabler-reload"
+    fill="none"
+    height="20"
+    stroke="#fff"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    stroke-width="2"
+    viewBox="0 0 24 24"
+    width="20"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M0 0h24v24H0z"
+      fill="none"
+      stroke="none"
+    />
+    <path
+      d="M19.933 13.041a8 8 0 1 1 -9.925 -8.788c3.899 -1.002 7.935 1.007 9.425 4.747"
+    />
+    <path
+      d="M20 4v5h-5"
+    />
+  </svg>
+</div>
+`;
+
+exports[`Circle should render an error button 1`] = `
+<div
+  class="sc-beqWaB iDnEgm"
+>
+  <svg
+    class="icon icon-tabler icon-tabler-x"
+    fill="none"
+    height="20"
+    stroke="#fff"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    stroke-width="2"
+    viewBox="0 0 24 24"
+    width="20"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M0 0h24v24H0z"
+      fill="none"
+      stroke="none"
+    />
+    <line
+      x1="18"
+      x2="6"
+      y1="6"
+      y2="18"
+    />
+    <line
+      x1="6"
+      x2="18"
+      y1="6"
+      y2="18"
+    />
+  </svg>
+</div>
+`;
+
+exports[`Circle should render correctly 1`] = `
+<div
+  class="sc-beqWaB eKXEiF"
+>
+  <svg
+    class="icon icon-tabler icon-tabler-check"
+    fill="none"
+    height="20"
+    stroke="#fff"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    stroke-width="2"
+    viewBox="0 0 24 24"
+    width="20"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M0 0h24v24H0z"
+      fill="none"
+      stroke="none"
+    />
+    <path
+      d="M5 12l5 5l10 -10"
+    />
+  </svg>
+</div>
+`;

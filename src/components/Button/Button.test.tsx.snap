@@ -1,0 +1,326 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button can be disabled 1`] = `
+<DocumentFragment>
+  <button
+    border="default"
+    class="mantine-UnstyledButton-root mantine-Button-root sc-fsQiph gJlWZX mantine-1pjtuep"
+    data-button="true"
+    data-disabled="true"
+    disabled=""
+    type="button"
+  >
+    <div
+      class="mantine-1wpc1xj mantine-Button-inner"
+    >
+      <span
+        class="mantine-1ryt1ht mantine-Button-label"
+      >
+        Button
+      </span>
+    </div>
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Button can be disabled 2`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+@@ -1,10 +1,12 @@
+  <DocumentFragment>
+    <button
+      border=\\"default\\"
+      class=\\"mantine-UnstyledButton-root mantine-Button-root sc-fsQiph gJlWZX mantine-1pjtuep\\"
+      data-button=\\"true\\"
++     data-disabled=\\"true\\"
++     disabled=\\"\\"
+      type=\\"button\\"
+    >
+      <div
+        class=\\"mantine-1wpc1xj mantine-Button-inner\\"
+      >"
+`;
+
+exports[`Button can be loading 1`] = `
+<DocumentFragment>
+  <button
+    border="default"
+    class="mantine-UnstyledButton-root mantine-Button-root sc-fsQiph gJlWZX mantine-1pjtuep"
+    data-button="true"
+    data-loading="true"
+    type="button"
+  >
+    <div
+      class="mantine-1wpc1xj mantine-Button-inner"
+    >
+      <span
+        class="mantine-Button-icon mantine-Button-leftIcon mantine-1jbrfp"
+      >
+        <svg
+          class="mantine-1avyp1d"
+          height="calc(2.625rem / 2)"
+          role="presentation"
+          stroke="#fff"
+          viewBox="0 0 38 38"
+          width="calc(2.625rem / 2)"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <g
+            fill="none"
+            fill-rule="evenodd"
+          >
+            <g
+              stroke-width="5"
+              transform="translate(2.5 2.5)"
+            >
+              <circle
+                cx="16"
+                cy="16"
+                r="16"
+                stroke-opacity=".5"
+              />
+              <path
+                d="M32 16c0-9.94-8.06-16-16-16"
+              >
+                <animatetransform
+                  attributeName="transform"
+                  dur="1s"
+                  from="0 16 16"
+                  repeatCount="indefinite"
+                  to="360 16 16"
+                  type="rotate"
+                />
+              </path>
+            </g>
+          </g>
+        </svg>
+      </span>
+      <span
+        class="mantine-1ryt1ht mantine-Button-label"
+      >
+        Button
+      </span>
+    </div>
+  </button>
+</DocumentFragment>
+`;
+
+exports[`Button can be loading 2`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+@@ -1,15 +1,58 @@
+  <DocumentFragment>
+    <button
+      border=\\"default\\"
+      class=\\"mantine-UnstyledButton-root mantine-Button-root sc-fsQiph gJlWZX mantine-1pjtuep\\"
+      data-button=\\"true\\"
++     data-loading=\\"true\\"
+      type=\\"button\\"
+    >
+      <div
+        class=\\"mantine-1wpc1xj mantine-Button-inner\\"
++     >
++       <span
++         class=\\"mantine-Button-icon mantine-Button-leftIcon mantine-1jbrfp\\"
++       >
++         <svg
++           class=\\"mantine-1avyp1d\\"
++           height=\\"calc(2.625rem / 2)\\"
++           role=\\"presentation\\"
++           stroke=\\"#fff\\"
++           viewBox=\\"0 0 38 38\\"
++           width=\\"calc(2.625rem / 2)\\"
++           xmlns=\\"http://www.w3.org/2000/svg\\"
++         >
++           <g
++             fill=\\"none\\"
++             fill-rule=\\"evenodd\\"
++           >
++             <g
++               stroke-width=\\"5\\"
++               transform=\\"translate(2.5 2.5)\\"
+              >
++               <circle
++                 cx=\\"16\\"
++                 cy=\\"16\\"
++                 r=\\"16\\"
++                 stroke-opacity=\\".5\\"
++               />
++               <path
++                 d=\\"M32 16c0-9.94-8.06-16-16-16\\"
++               >
++                 <animatetransform
++                   attributeName=\\"transform\\"
++                   dur=\\"1s\\"
++                   from=\\"0 16 16\\"
++                   repeatCount=\\"indefinite\\"
++                   to=\\"360 16 16\\"
++                   type=\\"rotate\\"
++                 />
++               </path>
++             </g>
++           </g>
++         </svg>
++       </span>
+        <span
+          class=\\"mantine-1ryt1ht mantine-Button-label\\"
+        >
+          Button
+        </span>"
+`;
+
+exports[`Button can have focus 1`] = `
+<button
+  border="default"
+  class="mantine-UnstyledButton-root mantine-Button-root sc-fsQiph gJlWZX mantine-1pjtuep"
+  data-button="true"
+  type="button"
+>
+  <div
+    class="mantine-1wpc1xj mantine-Button-inner"
+  >
+    <span
+      class="mantine-1ryt1ht mantine-Button-label"
+    >
+      Button
+    </span>
+  </div>
+</button>
+`;
+
+exports[`Button should render a button with border left variant 1`] = `
+<button
+  border="left"
+  class="mantine-UnstyledButton-root mantine-Button-root sc-fsQiph iRuqCZ mantine-1pjtuep"
+  data-button="true"
+  type="button"
+>
+  <div
+    class="mantine-1wpc1xj mantine-Button-inner"
+  >
+    <span
+      class="mantine-1ryt1ht mantine-Button-label"
+    >
+      Button
+    </span>
+  </div>
+</button>
+`;
+
+exports[`Button should render a button with border right variant 1`] = `
+<button
+  border="right"
+  class="mantine-UnstyledButton-root mantine-Button-root sc-fsQiph iebbtx mantine-1pjtuep"
+  data-button="true"
+  type="button"
+>
+  <div
+    class="mantine-1wpc1xj mantine-Button-inner"
+  >
+    <span
+      class="mantine-1ryt1ht mantine-Button-label"
+    >
+      Button
+    </span>
+  </div>
+</button>
+`;
+
+exports[`Button should render a button with different sizes 1`] = `
+<button
+  border="default"
+  class="mantine-UnstyledButton-root mantine-Button-root sc-fsQiph ekYqal mantine-1m1zbso"
+  data-button="true"
+  type="button"
+>
+  <div
+    class="mantine-1wpc1xj mantine-Button-inner"
+  >
+    <span
+      class="mantine-1ryt1ht mantine-Button-label"
+    >
+      Button
+    </span>
+  </div>
+</button>
+`;
+
+exports[`Button should render a primary button 1`] = `
+<button
+  border="default"
+  class="mantine-UnstyledButton-root mantine-Button-root sc-fsQiph gJlWZX mantine-1pjtuep"
+  data-button="true"
+  type="button"
+>
+  <div
+    class="mantine-1wpc1xj mantine-Button-inner"
+  >
+    <span
+      class="mantine-1ryt1ht mantine-Button-label"
+    >
+      Button
+    </span>
+  </div>
+</button>
+`;
+
+exports[`Button should render a secondary button 1`] = `
+<button
+  border="default"
+  class="mantine-UnstyledButton-root mantine-Button-root sc-fsQiph bSnkbv mantine-1pjtuep"
+  data-button="true"
+  type="button"
+>
+  <div
+    class="mantine-1wpc1xj mantine-Button-inner"
+  >
+    <span
+      class="mantine-1ryt1ht mantine-Button-label"
+    >
+      Button
+    </span>
+  </div>
+</button>
+`;
+
+exports[`Button should render a submit button 1`] = `
+<button
+  border="default"
+  class="mantine-UnstyledButton-root mantine-Button-root sc-fsQiph gJlWZX mantine-1pjtuep"
+  data-button="true"
+  type="submit"
+>
+  <div
+    class="mantine-1wpc1xj mantine-Button-inner"
+  >
+    <span
+      class="mantine-1ryt1ht mantine-Button-label"
+    >
+      Button
+    </span>
+  </div>
+</button>
+`;
+
+exports[`Button should render correctly 1`] = `
+<button
+  border="default"
+  class="mantine-UnstyledButton-root mantine-Button-root sc-fsQiph gJlWZX mantine-1pjtuep"
+  data-button="true"
+  type="button"
+>
+  <div
+    class="mantine-1wpc1xj mantine-Button-inner"
+  >
+    <span
+      class="mantine-1ryt1ht mantine-Button-label"
+    >
+      Button
+    </span>
+  </div>
+</button>
+`;

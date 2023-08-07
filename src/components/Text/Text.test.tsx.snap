@@ -1,0 +1,205 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text should render correctly 1`] = `
+<div
+  class="sc-beqWaB fpoiqw"
+  font-size="24px"
+>
+  Text
+</div>
+`;
+
+exports[`Text should render different FontColors 1`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+  <DocumentFragment>
+    <div
+-     class=\\"sc-beqWaB bdgNmx\\"
++     class=\\"sc-beqWaB irBlpR\\"
+      font-size=\\"24px\\"
+    >
+      Text
+    </div>
+  </DocumentFragment>"
+`;
+
+exports[`Text should render different FontColors 2`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+  <DocumentFragment>
+    <div
+-     class=\\"sc-beqWaB bdgNmx\\"
++     class=\\"sc-beqWaB jPoJot\\"
+      font-size=\\"24px\\"
+    >
+      Text
+    </div>
+  </DocumentFragment>"
+`;
+
+exports[`Text should render different FontColors 3`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+  <DocumentFragment>
+    <div
+-     class=\\"sc-beqWaB irBlpR\\"
++     class=\\"sc-beqWaB jPoJot\\"
+      font-size=\\"24px\\"
+    >
+      Text
+    </div>
+  </DocumentFragment>"
+`;
+
+exports[`Text should render different FontSizes 1`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+  <DocumentFragment>
+    <div
+-     class=\\"sc-beqWaB dQkonX\\"
+-     font-size=\\"14px\\"
++     class=\\"sc-beqWaB cHoNiN\\"
++     font-size=\\"16px\\"
+    >
+      Text
+    </div>
+  </DocumentFragment>"
+`;
+
+exports[`Text should render different FontSizes 2`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+  <DocumentFragment>
+    <div
+-     class=\\"sc-beqWaB dQkonX\\"
+-     font-size=\\"14px\\"
++     class=\\"sc-beqWaB fpoiqw\\"
++     font-size=\\"24px\\"
+    >
+      Text
+    </div>
+  </DocumentFragment>"
+`;
+
+exports[`Text should render different FontSizes 3`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+  <DocumentFragment>
+    <div
+-     class=\\"sc-beqWaB cHoNiN\\"
+-     font-size=\\"16px\\"
++     class=\\"sc-beqWaB fpoiqw\\"
++     font-size=\\"24px\\"
+    >
+      Text
+    </div>
+  </DocumentFragment>"
+`;
+
+exports[`Text should render different LineHeight 1`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+  <DocumentFragment>
+    <div
+-     class=\\"sc-beqWaB hLWyKh\\"
++     class=\\"sc-beqWaB gDLPiL\\"
+      font-size=\\"24px\\"
+    >
+      Text
+    </div>
+  </DocumentFragment>"
+`;
+
+exports[`Text should render different LineHeight 2`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+  <DocumentFragment>
+    <div
+-     class=\\"sc-beqWaB hLWyKh\\"
++     class=\\"sc-beqWaB fpoiqw\\"
+      font-size=\\"24px\\"
+    >
+      Text
+    </div>
+  </DocumentFragment>"
+`;
+
+exports[`Text should render different LineHeight 3`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+  <DocumentFragment>
+    <div
+-     class=\\"sc-beqWaB gDLPiL\\"
++     class=\\"sc-beqWaB fpoiqw\\"
+      font-size=\\"24px\\"
+    >
+      Text
+    </div>
+  </DocumentFragment>"
+`;
+
+exports[`Text should render different Weights 1`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+  <DocumentFragment>
+    <div
+-     class=\\"sc-beqWaB iYNEkQ\\"
++     class=\\"sc-beqWaB iNNjkD\\"
+      font-size=\\"24px\\"
+    >
+      Text
+    </div>
+  </DocumentFragment>"
+`;
+
+exports[`Text should render different Weights 2`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+  <DocumentFragment>
+    <div
+-     class=\\"sc-beqWaB iYNEkQ\\"
++     class=\\"sc-beqWaB fpoiqw\\"
+      font-size=\\"24px\\"
+    >
+      Text
+    </div>
+  </DocumentFragment>"
+`;
+
+exports[`Text should render different Weights 3`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+  <DocumentFragment>
+    <div
+-     class=\\"sc-beqWaB iNNjkD\\"
++     class=\\"sc-beqWaB fpoiqw\\"
+      font-size=\\"24px\\"
+    >
+      Text
+    </div>
+  </DocumentFragment>"
+`;

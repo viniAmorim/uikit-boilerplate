@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Arrow should render correctly 1`] = `
+<div
+  class="sc-beqWaB kQzpQb"
+>
+  <div
+    class="sc-dmqHEX gWVQob"
+  >
+    <span
+      class="sc-gueYoa eVPTPq"
+    >
+      32
+      %
+    </span>
+  </div>
+  <div
+    class="sc-hLseeU ldQUJZ"
+  />
+</div>
+`;

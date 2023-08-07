@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Grid should render correctly 1`] = `
+<div
+  class="mantine-Grid-root mantine-16fdnqw"
+>
+  <div
+    class="mantine-Grid-col mantine-ea7fe7"
+  >
+    1
+  </div>
+  <div
+    class="mantine-Grid-col mantine-ea7fe7"
+  >
+    2
+  </div>
+</div>
+`;

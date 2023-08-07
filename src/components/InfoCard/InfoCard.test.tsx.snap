@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InfoCard should render correctly 1`] = `
+<div
+  class="sc-gueYoa fThvOw"
+>
+  <div
+    class="sc-beqWaB bWlFyq"
+    font-size="14px"
+  >
+    Park Shopping
+  </div>
+  <div
+    class="sc-beqWaB iIaycp"
+    font-size="40px"
+  >
+    121.212
+  </div>
+</div>
+`;

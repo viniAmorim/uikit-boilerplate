@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProgressBar should render correctly 1`] = `
+<div
+  class="sc-beqWaB gnRzvg"
+  data-testid="progress-bar-container"
+  height="20"
+>
+  <div
+    class="sc-gueYoa cQJnNl"
+    data-testid="progress-bar-progress"
+    value="50"
+  />
+</div>
+`;
+
+exports[`ProgressBar should render correctly 2`] = `
+<div
+  class="sc-gueYoa cQJnNl"
+  data-testid="progress-bar-progress"
+  value="50"
+/>
+`;
+
+exports[`ProgressBar should render custom props 1`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+  <DocumentFragment>
+    <div
+-     class=\\"sc-beqWaB gnRzvg\\"
++     class=\\"sc-beqWaB gRsga-d\\"
+      data-testid=\\"progress-bar-container\\"
+      height=\\"20\\"
+    >
+      <div
+-       class=\\"sc-gueYoa cQJnNl\\"
++       class=\\"sc-gueYoa hIRZwZ\\"
+        data-testid=\\"progress-bar-progress\\"
+        value=\\"50\\"
+      />
+    </div>
+  </DocumentFragment>"
+`;
+
+exports[`ProgressBar should updates progress 1`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+@@ -3,11 +3,11 @@
+      class=\\"sc-beqWaB gnRzvg\\"
+      data-testid=\\"progress-bar-container\\"
+      height=\\"20\\"
+    >
+      <div
+-       class=\\"sc-gueYoa kpXHzU\\"
++       class=\\"sc-gueYoa cQJnNl\\"
+        data-testid=\\"progress-bar-progress\\"
+-       value=\\"0\\"
++       value=\\"50\\"
+      />
+    </div>
+  </DocumentFragment>"
+`;
